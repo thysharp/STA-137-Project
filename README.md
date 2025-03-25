@@ -1,4 +1,5 @@
 Philosophy: A Fading Subject? How can Universities Adapt to Philosophy’s Change in Popularity?
+
 Authors: Yihan(Andrew) Chen, Thy Pham
 
 Abstract:
