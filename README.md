@@ -1,7 +1,8 @@
 Philosophy: A Fading Subject? How can Universities Adapt to Philosophy’s Change in Popularity?
 Authors: Yihan(Andrew) Chen, Thy Pham
 
-Abstract
+Abstract:
+
 Universities need to continuously adjust their course offerings and programs to cater to the changing demand of incoming students every year. 
 To advise universities on how to scale their philosophy department and programs, we discover the future of the philosophy’s popularity through forecasting. 
 We predict the popularity values for the search term “philosophy” on google for every month in the year of 2016 based on the data we have from the year 2004 to 2015 using time series analysis. 
